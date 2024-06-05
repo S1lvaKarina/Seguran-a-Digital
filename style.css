@@ -3,8 +3,8 @@
 :root{
     --branco: white;
     --cor-de-fundo: #f5b0ec;
-    --fundo-senha: #0000006e;
-    --fundo-texto: #0000006e;
+    --fundo-senha: hsl(0, 0%, 0%);
+    --fundo-texto: #000000;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
